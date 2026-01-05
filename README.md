@@ -18,7 +18,7 @@ This project groups together calculations into chains for easier reference after
 - requirements.txt: Libraries and versions used for this project
 
 ## Installation
-1. Clone the repository: ```git clone _ ```
+1. Clone the repository: ```git clone https://github.com/DarrinOBrien/Grouping_Calculator.git```
 2. Create a virtual environment: 
     ```
     python -m venv .venv 
